@@ -1,4 +1,4 @@
 DrSnow
 ======
 
-Project to initiate a consortium for open geo data
+Named After Dr. John Snow, GIS pioneer and good guy. 
